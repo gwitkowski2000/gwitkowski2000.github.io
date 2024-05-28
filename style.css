@@ -50,7 +50,7 @@ div.hi-there p {
 	max-width: fit-content;
 	margin-left: auto;
 	margin-right: auto;
-	margin-top: 25vh;
+	margin-top: 22vh;
 }
 
 div.name p {
@@ -61,7 +61,8 @@ div.name p {
 	max-width: fit-content;
 	margin-left: auto;
 	margin-right: auto;
-	margin-top: 1vh;
+	margin-top: -1vh;
+	margin-top: -1.5vh;
 }
 
 .main-and {
@@ -136,7 +137,7 @@ div.name p {
 		max-width: fit-content;
 		margin-left: auto;
 		margin-right: auto;
-		margin-top: 0vh;
+		margin-top: -1.5vh;
 	}
 
 	.main-and {
