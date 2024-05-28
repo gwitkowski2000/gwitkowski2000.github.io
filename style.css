@@ -64,6 +64,14 @@ div.name p {
 	margin-top: 1vh;
 }
 
+.main-and {
+	font-family: "Caveat", cursive;
+	max-width: fit-content;
+	margin-left: auto;
+	margin-right: auto;
+	margin-top: 0vh;
+}
+
 @media (min-width: 1200px) {
 	* {
 		box-sizing: border-box;
@@ -128,6 +136,14 @@ div.name p {
 		max-width: fit-content;
 		margin-left: auto;
 		margin-right: auto;
-		margin-top: 1vh;
+		margin-top: 0vh;
+	}
+
+	.main-and {
+		font-family: "Caveat", cursive;
+		max-width: fit-content;
+		margin-left: auto;
+		margin-right: auto;
+		margin-top: 0vh;
 	}
 }
