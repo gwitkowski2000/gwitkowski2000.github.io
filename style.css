@@ -7,13 +7,13 @@
 body {
 	font-family: "Josefin Sans", sans-serif;
 	background-color: black;
-	font-size: 30px;
+	font-size: 3vh;
 	color: whitesmoke;
 }
 
 nav {
 	margin-top: 10px;
-	font-size: 18px;
+	font-size: 2vh;
 }
 nav div a {
 	line-height: 4vh;
@@ -26,8 +26,8 @@ nav div a {
 }
 
 .nav-item-name {
-	padding: 10px 15px 5px 15px;
-	border-radius: 50px;
+	padding: 1vh 4vw 1vh 4vw;
+	border-radius: 50vw;
 	max-width: fit-content;
 	margin-left: auto;
 	margin-right: auto;
@@ -56,7 +56,7 @@ div.hi-there p {
 div.name p {
 	color: whitesmoke;
 	font-family: "Salsa", cursive;
-	font-size: 60px;
+	font-size: 8vh;
 	text-align: center;
 	max-width: fit-content;
 	margin-left: auto;
