@@ -39,8 +39,6 @@ nav div a {
 	max-width: fit-content;
 	margin-left: auto;
 	margin-right: auto;
-	position: absolute;
-	left: 2.5vw;
 }
 
 .nav-right {
@@ -130,6 +128,8 @@ div.name p {
 		max-width: fit-content;
 		margin-left: 0;
 		margin-right: 0;
+		position: absolute;
+		left: 2.5vw;
 	}
 
 	.nav-right {
