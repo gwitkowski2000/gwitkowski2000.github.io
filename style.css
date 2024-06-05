@@ -39,6 +39,8 @@ nav div a {
 	max-width: fit-content;
 	margin-left: auto;
 	margin-right: auto;
+	position: absolute;
+	left: 2.5vw;
 }
 
 .nav-right {
@@ -71,6 +73,20 @@ div.name p {
 	margin-left: auto;
 	margin-right: auto;
 	margin-top: 0vh;
+}
+
+.about-main {
+	font-family: "Caveat", cursive;
+	font-family: "Josefin Sans", sans-serif;
+	/* text-align: center; */
+	font-family: "Salsa", cursive;
+	/* background-color: gold; */
+	width: 95vw;
+	font-size: 15px;
+	position: absolute;
+	top: 50%;
+	left: 50%;
+	transform: translate(-50%, -50%);
 }
 
 @media (min-width: 1200px) {
@@ -146,5 +162,12 @@ div.name p {
 		margin-left: auto;
 		margin-right: auto;
 		margin-top: 0vh;
+	}
+
+	.about-main {
+		margin-left: auto;
+		margin-right: auto;
+		width: 95vw;
+		font-size: 25px;
 	}
 }
